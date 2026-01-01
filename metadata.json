@@ -1,0 +1,8 @@
+{
+  "name": "NeoLearn",
+  "description": "A high-performance developer learning platform featuring interactive lessons, progress tracking, and AI-powered study assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
